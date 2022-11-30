@@ -1,0 +1,11 @@
+.inicio {
+    background-color: red;
+    border: 1px solid red;
+}
+.body{
+}
+input[type=submit] { 
+    background-color:red;
+    border: none;
+  }
+  
